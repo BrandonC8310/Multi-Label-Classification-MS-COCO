@@ -1,6 +1,6 @@
 # Instructions to run the code
 
-## preparations
+## Preparations
 * environment: python 3.9.7
 * requirements: run ```pip install -r requirements.txt ```
 
